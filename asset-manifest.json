@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jyc-coder/TodoList-With-Calendar.git/static/css/main.faa4e2b4.css",
+    "main.js": "/jyc-coder/TodoList-With-Calendar.git/static/js/main.cebae061.js",
+    "index.html": "/jyc-coder/TodoList-With-Calendar.git/index.html",
+    "main.faa4e2b4.css.map": "/jyc-coder/TodoList-With-Calendar.git/static/css/main.faa4e2b4.css.map",
+    "main.cebae061.js.map": "/jyc-coder/TodoList-With-Calendar.git/static/js/main.cebae061.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.faa4e2b4.css",
+    "static/js/main.cebae061.js"
+  ]
+}
