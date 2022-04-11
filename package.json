@@ -1,7 +1,7 @@
 {
   "name": "todo_cal",
   "version": "0.1.0",
-  "homepage" : "https://github.com/jyc-coder/Calendar-With-TodoList.git",
+  "homepage" : "https://github.com/jyc-coder/TodoList-With-Calendar.git",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.8.2",
