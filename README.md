@@ -29,4 +29,5 @@
 
 ## 사용 화면
 
-![ezgif com-gif-maker (21)](https://user-images.githubusercontent.com/56331400/163675697-30b43c31-6804-4e88-8e40-a0b0f8013ea4.gif)
+
+![ezgif com-gif-maker (22)](https://user-images.githubusercontent.com/56331400/163675783-3a354a41-a94c-41c9-9e9e-33df0f6ba107.gif)
